@@ -14,7 +14,6 @@
 ## 🚀 About Me
 
 🎯 **Passionate Full-Stack Developer** exploring the endless possibilities of code  
-🌱 Currently diving deep into **Advanced Web Development & AI/ML**  
 💡 Love turning ideas into reality through clean, efficient code  
 🎓 Always eager to learn and take on new challenges  
 📧 Reach me at: **pd2820523@gmail.com**
